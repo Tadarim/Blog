@@ -15,7 +15,7 @@ const FeatureList = [
     title: 'About Me',
     description: (
       <>
-        A rookie on the front direction
+        A rookie of front end
       </>
     ),
   },
