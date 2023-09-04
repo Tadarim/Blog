@@ -77,7 +77,7 @@ const config = {
         isCloseable: true,
       }, 
       navbar: {
-        title: 'My Site',
+        title: 'Tadarim的博客',
         hideOnScroll: true,
         items: [
           {
