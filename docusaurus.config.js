@@ -105,12 +105,6 @@ const config = {
       },
       colorMode: {
         respectPrefersColorScheme: true
-      },
-      algolia: {
-        contextualSearch: true,
-        appId: 'VFQLC9NY2V',
-        apiKey: '91dafce931d6fa0086cf06dc79422d5a',
-        indexName: 'Tadarim'
       }
     }),
 };
