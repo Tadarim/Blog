@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tadarim',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'A rookie of front end',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -80,10 +80,6 @@ const config = {
         title: 'Tadarim的博客',
         hideOnScroll: true,
         items: [
-          {
-            type: 'search',
-            position: 'right',
-          },
           {
             type: 'doc',
             docId: 'HTML',
